@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Kinetic Controller",
+  "description": "Control a virtual object in the browser using real-time hand gestures via the webcam and Gemini Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
